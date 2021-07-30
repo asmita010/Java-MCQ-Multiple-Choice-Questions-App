@@ -5,3 +5,15 @@
 E-R diagram of given project(For database)-
 
 ![image](https://user-images.githubusercontent.com/88025966/127607860-aea63e64-61a5-4049-80ed-68629d89314e.png)
+
+Log In Page-
+
+![image](https://user-images.githubusercontent.com/88025966/127607986-4b7b1c7a-d8eb-4d77-af7e-9471c3a445ba.png)
+
+Answering Questions-
+
+![image](https://user-images.githubusercontent.com/88025966/127608039-f192b63b-8bb4-431e-ac52-6bf894ad2079.png)
+
+Viewing Results-
+
+![image](https://user-images.githubusercontent.com/88025966/127608079-b48a10c1-ec3d-4a10-9315-24b794316471.png)

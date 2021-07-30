@@ -10,12 +10,10 @@ Log In Page-
 
 ![image](https://user-images.githubusercontent.com/88025966/127607986-4b7b1c7a-d8eb-4d77-af7e-9471c3a445ba.png)
 
-Adding Exams-
+Adding Exams (Similar interfaces are aavailable for adding questions and options)-
 
 ![image](https://user-images.githubusercontent.com/88025966/127631833-375227b0-ad86-4244-9f85-8948632223d4.png)
 
-
-Similar interfaces are aavailable for adding questions and options
 Answering Questions-
 
 ![image](https://user-images.githubusercontent.com/88025966/127608039-f192b63b-8bb4-431e-ac52-6bf894ad2079.png)
